@@ -4,7 +4,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ site.title }}</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Sherman Lim - CS PhD Student at Carnegie Mellon University. Former software engineer at Jump Trading and researcher at National University of Singapore.">
+    <meta name="keywords" content="Sherman Lim, CMU, Carnegie Mellon University, PhD Computer Science, Jump Trading, NUS, National University of Singapore, research, software engineer">
+    <meta name="author" content="Sherman Lim">
+
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+
+    <!-- Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sherman Lim",
+      "jobTitle": "PhD Student in Computer Science",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Carnegie Mellon University"
+      },
+      "alumniOf": {
+        "@type": "Organization",
+        "name": "National University of Singapore"
+      },
+      "url": "https://shermanjlim.com",
+      "sameAs": [
+        "https://github.com/shermanjlim",
+        "https://linkedin.com/in/shermanjlim",
+        "https://scholar.google.com/citations?hl=en&user=FwQVQjkAAAAJ"
+      ]
+    }
+    </script>
   </head>
   <body>
     <nav class="navbar">
