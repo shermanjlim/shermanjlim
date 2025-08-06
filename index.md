@@ -35,5 +35,15 @@ title: "Home"
   </div>
 </div>
 
-My name is Sherman, and I am an incoming CS PhD Student at Carnegie Mellon University.
+My name is Sherman, and I am an incoming CS PhD Student at [Carnegie Mellon University](https://www.cmu.edu/) (CMU).
 I'm broadly interested in systems and networking, with a focus on improving the resource efficiency of datacenters and hardware-software co-design, especially designing software systems for emerging hardware.
+
+Before CMU, I was a software engineer at [Jump Trading](https://jumptrading.com), where I built low-latency systems for high-frequency trading applications.
+I also recently worked on accelerating memory-disaggregated data systems using DPUs with [Prof. Jialin Li](https://www.comp.nus.edu.sg/~lijl/) and, further back, QUIC congestion control with [Prof. Ben Leong](https://www.comp.nus.edu.sg/~bleong/), at the [National University of Singapore](https://nus.edu.sg/).
+I received my Bachelor in Computer Science from the National University of Singapore.
+
+Do refer to my [CV](/assets/files/ShermanLim_CV.pdf) for more details.
+
+# Publications
+
+Ayush Mishra, Sherman Lim, and Ben Leong. 2022. Understanding Speciation in QUIC Congestion Control. In Proceedings of the 22nd ACM Internet Measurement Conference (IMC '22). Association for Computing Machinery, New York, NY, USA, 560–566. [https://doi.org/10.1145/3517745.3561459](https://doi.org/10.1145/3517745.3561459)
