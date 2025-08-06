@@ -7,6 +7,18 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
-    {{ content }}
+    <nav class="navbar">
+      <div class="nav-container">
+        <div class="nav-brand">
+          <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+      <main class="content">
+        {{ content }}
+      </main>
+    </div>
   </body>
 </html>

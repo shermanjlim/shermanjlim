@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Home"
 ---
 
-## You're ready to go!
+# Introduction
 
-Start developing your Jekyll website.
+Hi! I'm Sherman Lim,
