@@ -1,7 +1,7 @@
 url: "https://shermanjlim.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Sherman Lim" # the name of your site, e.g. ACME Corp.
-description: "Sherman Lim - CS PhD Student at Carnegie Mellon University."
+description: "Sherman Lim. CS PhD Student at Carnegie Mellon University."
 author: "Sherman Lim"
 email: "shermanlim@cmu.edu"
 lang: "en-US"
