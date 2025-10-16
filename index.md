@@ -35,11 +35,10 @@ title: "Home"
   </div>
 </div>
 
-My name is Sherman, and I am an incoming CS PhD Student at [Carnegie Mellon University](https://www.cmu.edu/) (CMU).
-I'm broadly interested in systems and networking, with a focus on improving the resource efficiency of datacenters and hardware-software co-design, especially designing software systems for emerging hardware.
+My name is Sherman, and I am a first-year PhD student in the Computer Science Department (CSD) at [Carnegie Mellon University](https://www.cmu.edu/), co-advised by Prof. [Greg Ganger](https://users.ece.cmu.edu/~ganger/) & Prof. [George Amvrosiadis](https://users.ece.cmu.edu/~gamvrosi/) in the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml) (PDL). I’m broadly interested in computer systems, and am currently focusing on large-scale data systems.
 
 Before CMU, I was a software engineer at [Jump Trading](https://jumptrading.com), where I built low-latency systems for high-frequency trading applications.
-I also recently worked on accelerating memory-disaggregated data systems using DPUs with [Prof. Jialin Li](https://www.comp.nus.edu.sg/~lijl/) and, further back, QUIC congestion control with [Prof. Ben Leong](https://www.comp.nus.edu.sg/~bleong/), at the [National University of Singapore](https://nus.edu.sg/).
+I also worked on accelerating memory-disaggregated data systems using DPUs with [Prof. Jialin Li](https://www.comp.nus.edu.sg/~lijl/) and, further back, QUIC congestion control with [Prof. Ben Leong](https://www.comp.nus.edu.sg/~bleong/), at the [National University of Singapore](https://nus.edu.sg/).
 I received my Bachelor in Computer Science from the National University of Singapore.
 
 Do refer to my [CV](/assets/files/ShermanLim_CV.pdf) for more details.
