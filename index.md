@@ -45,4 +45,10 @@ Do refer to my [CV](/assets/files/ShermanLim_CV.pdf) for more details.
 
 # Publications
 
-Ayush Mishra, Sherman Lim, and Ben Leong. 2022. Understanding Speciation in QUIC Congestion Control. In Proceedings of the 22nd ACM Internet Measurement Conference (IMC '22). Association for Computing Machinery, New York, NY, USA, 560–566. [https://doi.org/10.1145/3517745.3561459](https://doi.org/10.1145/3517745.3561459)
+**PD3: Prefetching Data with DPUs for Disaggregated Memory**  
+Sidharth Sankhe, Felix Zhang, Umayrah Chonee, **Sherman Lim**, Jason Hu, Jialin Li, Qizhen Zhang  
+Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26), to appear
+
+[**Understanding Speciation in QUIC Congestion Control**](https://doi.org/10.1145/3517745.3561459)  
+Ayush Mishra, **Sherman Lim**, Ben Leong  
+Proceedings of the 22nd ACM Internet Measurement Conference (IMC '22)
