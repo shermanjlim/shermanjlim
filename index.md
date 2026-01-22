@@ -35,7 +35,7 @@ title: "Home"
   </div>
 </div>
 
-My name is Sherman, and I am a first-year PhD student in the Computer Science Department (CSD) at [Carnegie Mellon University](https://www.cmu.edu/), co-advised by Prof. [Greg Ganger](https://users.ece.cmu.edu/~ganger/) & Prof. [George Amvrosiadis](https://users.ece.cmu.edu/~gamvrosi/) in the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml) (PDL). I’m broadly interested in computer systems, and am currently focusing on large-scale data systems.
+My name is Sherman, and I am a first-year PhD student in the Computer Science Department (CSD) at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [George Amvrosiadis](https://users.ece.cmu.edu/~gamvrosi/) in the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml) (PDL). I’m broadly interested in computer systems, and am currently focusing on storage systems.
 
 Before CMU, I was a software engineer at [Jump Trading](https://jumptrading.com), where I built low-latency systems for high-frequency trading applications.
 I also worked on accelerating memory-disaggregated data systems using DPUs with [Prof. Jialin Li](https://www.comp.nus.edu.sg/~lijl/) and, further back, QUIC congestion control with [Prof. Ben Leong](https://www.comp.nus.edu.sg/~bleong/), at the [National University of Singapore](https://nus.edu.sg/).
@@ -45,10 +45,10 @@ Do refer to my [CV](/assets/files/ShermanLim_CV.pdf) for more details.
 
 # Publications
 
-**PD3: Prefetching Data with DPUs for Disaggregated Memory**  
-Sidharth Sankhe, Felix Zhang, Umayrah Chonee, **Sherman Lim**, Jason Hu, Jialin Li, Qizhen Zhang  
+**PD3: Prefetching Data with DPUs for Disaggregated Memory**
+Sidharth Sankhe, Felix Zhang, Umayrah Chonee, **Sherman Lim**, Jason Hu, Jialin Li, Qizhen Zhang
 Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26), to appear
 
-[**Understanding Speciation in QUIC Congestion Control**](https://doi.org/10.1145/3517745.3561459)  
-Ayush Mishra, **Sherman Lim**, Ben Leong  
+[**Understanding Speciation in QUIC Congestion Control**](https://doi.org/10.1145/3517745.3561459)
+Ayush Mishra, **Sherman Lim**, Ben Leong
 Proceedings of the 22nd ACM Internet Measurement Conference (IMC '22)
