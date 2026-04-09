@@ -35,7 +35,7 @@ title: "Home"
   </div>
 </div>
 
-My name is Sherman, and I am a first-year PhD student in the Computer Science Department (CSD) at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [George Amvrosiadis](https://users.ece.cmu.edu/~gamvrosi/) in the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml) (PDL). I’m broadly interested in computer systems, and am currently focusing on storage systems.
+My name is Sherman, and I am a first-year PhD student in the Computer Science Department (CSD) at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [George Amvrosiadis](https://users.ece.cmu.edu/~gamvrosi/) in the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml) (PDL). I’m broadly interested in computer systems, particularly in co-designing software & hardware to make datacenters more efficient.
 
 Before CMU, I was a software engineer at [Jump Trading](https://jumptrading.com), where I built low-latency systems for high-frequency trading applications.
 I also worked on accelerating memory-disaggregated data systems using DPUs with [Prof. Jialin Li](https://www.comp.nus.edu.sg/~lijl/) and, further back, QUIC congestion control with [Prof. Ben Leong](https://www.comp.nus.edu.sg/~bleong/), at the [National University of Singapore](https://nus.edu.sg/).
