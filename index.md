@@ -45,7 +45,7 @@ Do refer to my [CV](/assets/files/ShermanLim_CV.pdf) for more details.
 
 # Publications
 
-**PD3: Prefetching Data with DPUs for Disaggregated Memory**  
+[**PD3: Prefetching Data with DPUs for Disaggregated Memory**](https://www.usenix.org/conference/nsdi26/presentation/sankhe)  
 Sidharth Sankhe, Felix Zhang, Umayrah Chonee, **Sherman Lim**, Jason Hu, Jialin Li, Qizhen Zhang  
 Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26)
 
