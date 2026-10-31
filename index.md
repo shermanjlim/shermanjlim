@@ -37,11 +37,10 @@ title: "Home"
 
 My name is Sherman, and I am a second-year PhD student in the Computer Science Department (CSD) at [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [George Amvrosiadis](https://users.ece.cmu.edu/~gamvrosi/) in the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml) (PDL).
 
-I'm broadly interested in the design and implementation of software systems. These days, I'm especially intrigued by how emerging memory technologies might address the memory wall, and how software systems should be redesigned for this new hardware. I'm currently co-designing LLM inference systems for future AI accelerators with High Bandwidth Flash (HBF) memory.
+I'm broadly interested in the design and implementation of software systems. These days, I'm working on memory management for language model serving with emerging High Bandwidth Flash (HBF) memory, and building a vLLM prototype for GPUs with emulated HBF.
 
 Before CMU, I spent two years building latency-critical C++ systems for high-frequency trading as a software engineer at [Jump Trading](https://jumptrading.com).
-I also did research on accelerating memory-disaggregated data systems using data processing units (DPUs) with Prof. [Jialin Li](https://www.comp.nus.edu.sg/~lijl/) and, further back, on QUIC congestion control with Prof. [Ben Leong](https://www.comp.nus.edu.sg/~bleong/), at the [National University of Singapore](https://nus.edu.sg/).
-I received my Bachelor in Computer Science from NUS.
+I received my Bachelor of Computing in Computer Science from the [National University of Singapore](https://nus.edu.sg/), where I also did research with Prof. [Jialin Li](https://www.comp.nus.edu.sg/~lijl/) on accelerating memory-disaggregated data systems using data processing units (DPUs) and, further back, with Prof. [Ben Leong](https://www.comp.nus.edu.sg/~bleong/) on QUIC congestion control.
 
 Refer to my [CV](/assets/files/ShermanLim_CV.pdf) for more details.
 
@@ -49,8 +48,8 @@ Refer to my [CV](/assets/files/ShermanLim_CV.pdf) for more details.
 
 [**PD3: Prefetching Data with DPUs for Disaggregated Memory**](https://www.usenix.org/conference/nsdi26/presentation/sankhe)  
 Sidharth Sankhe, Felix Zhang, Umayrah Chonee, **Sherman Lim**, Jiasheng Hu, Jialin Li, Qizhen Zhang  
-Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI '26)
+Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI ’26)
 
 [**Understanding Speciation in QUIC Congestion Control**](https://doi.org/10.1145/3517745.3561459)  
 Ayush Mishra, **Sherman Lim**, Ben Leong  
-Proceedings of the 22nd ACM Internet Measurement Conference (IMC '22)
+Proceedings of the 22nd ACM Internet Measurement Conference (IMC ’22)
